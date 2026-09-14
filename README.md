@@ -3,7 +3,7 @@
 This project focuses on cleaning and preparing a raw e-commerce dataset to improve data quality and ensure it is ready for analysis and reporting. The dataset contained missing values, inconsistent formats, and duplicate records that could affect analytical results if left untreated.
 Using Microsoft Excel and Power Query, the dataset was transformed into a structured and reliable format suitable for further analysis and visualization.
 
-##🎯 Project Objective
+## 🎯 Project Objective
 The goal of this project is to clean and transform the raw dataset into a clean, consistent, and analysis-ready dataset while maintaining data integrity so to 
 
 - Identify and handle missing or null values.
@@ -13,23 +13,23 @@ The goal of this project is to clean and transform the raw dataset into a clean,
 - Improve overall data quality and reliability.
 - Prepare the dataset for business analysis and reporting.
 
-##🛠️ Tools Used
+## 🛠️ Tools Used
 - Microsoft Excel
 - Power Query
 - Data Cleaning Techniques
 - Data Preparation Methods
 - GitHub
 
-##📁 Dataset Overview
+## 📁 Dataset Overview
 Dataset Description
 
 The dataset contains e-commerce transaction records capturing customer purchases, payment information, shipping details, referral sources, and order statuses.
 
-##Number of Records
+## Number of Records
 Rows: 1200
 Columns: 14
 
-##Key Fields - Column Name
+## Key Fields - Column Name
 OrderID
 Date
 CustomerID
@@ -46,11 +46,11 @@ ReferralSource
 TotalPrice
 
 
-##🔄 Data Cleaning Process
+## 🔄 Data Cleaning Process
 
 The following data-cleaning steps were performed:
 
-###1. Missing Value Identification
+### 1. Missing Value Identification
 
 The dataset was examined for blank, null, and missing values.
 
@@ -60,7 +60,7 @@ Actions taken:
 -Replaced missing coupon information with "No Coupon" where applicable.
 -Reviewed other missing fields and handled them appropriately to maintain data consistency.
 
-###2. Duplicate Removal
+### 2. Duplicate Removal
 
 The dataset was checked for duplicate records using Excel and Power Query.
 
@@ -70,21 +70,21 @@ Actions taken:
 -Removed duplicate records while retaining unique transactions.
 -Verified data integrity after removal.
 
-###3. Data Format Correction
+### 3. Data Format Correction
 
 Several fields required standardization to ensure consistency.
-###Date Formatting
+### Date Formatting
 -Converted date fields into a consistent date format.
 -Ensured chronological accuracy for time-based analysis.
-###Numeric Formatting
+### Numeric Formatting
 -Verified Quantity, Unit Price, and Total Price columns were stored as numbers.
 -Corrected any formatting inconsistencies.
-###Text Standardization
+### Text Standardization
 -Standardized text entries.
 -Removed extra spaces and unwanted characters.
 -Ensured consistent naming conventions across categorical fields.
 
-###4. Data Validation
+### 4. Data Validation
 
 Conducted final quality checks to ensure:
 
@@ -94,7 +94,7 @@ Conducted final quality checks to ensure:
 -Records were consistent and analysis-ready.
 
 
-##📈 Key Observations
+## 📈 Key Observations
 
 During the cleaning process, the following issues were identified:
 
@@ -106,7 +106,7 @@ During the cleaning process, the following issues were identified:
 
 Addressing these issues significantly improved the reliability of the dataset.
 
-##✅ Final Outcome
+## ✅ Final Outcome
 
 After cleaning and preparation:
 
@@ -116,7 +116,7 @@ After cleaning and preparation:
 -Data formats were standardized.
 -The dataset became suitable for analysis, reporting, and dashboard development.
 
-##📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 -Data Cleaning
 -Data Preparation
 -Data Validation
@@ -127,14 +127,14 @@ After cleaning and preparation:
 -Data Formatting and Standardization
 -Data Quality Assessment
 
-##🚀 Project Deliverables
+## 🚀 Project Deliverables
 -Cleaned E-commerce Dataset
 -Data Cleaning Documentation
 -GitHub Project Repository
 -Analysis-Ready Dataset for SQL and Power BI Projects
 
-#Author
+# Author
 
-##Uzoma Madueke
+## Uzoma Madueke
  Data Analyst | Decode Labs
  Passionate about transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
