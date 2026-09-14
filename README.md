@@ -153,3 +153,5 @@ After cleaning and preparation:
  Data Analyst | Decode Labs
  
  Passionate about transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+ 
+ Skills: Excel | SQL | Power BI | Tableau | Data Cleaning
