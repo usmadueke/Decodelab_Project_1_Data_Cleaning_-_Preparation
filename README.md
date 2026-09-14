@@ -32,18 +32,31 @@ Columns: 14
 
 ## Key Fields - Column Name
 OrderID
+
 Date
+
 CustomerID
+
 Product
+
 Quantity
+
 UnitPrice
+
 ShippingAddress
+
 PaymentMethod
+
 OrderStatus
+
 TrackingNumber
+
 ItemsInCart
+
 CouponCode
+
 ReferralSource
+
 TotalPrice
 
 
