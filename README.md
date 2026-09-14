@@ -2,6 +2,7 @@
 
 This project focuses on cleaning and preparing a raw e-commerce dataset to improve data quality and ensure it is ready for analysis and reporting. The dataset contained missing values, inconsistent formats, and duplicate records that could affect analytical results if left untreated.
 Using Microsoft Excel and Power Query, the dataset was transformed into a structured and reliable format suitable for further analysis and visualization.
+
 ##🎯 Project Objective
 The goal of this project is to clean and transform the raw dataset into a clean, consistent, and analysis-ready dataset while maintaining data integrity so to 
 
