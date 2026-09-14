@@ -27,6 +27,7 @@ The dataset contains e-commerce transaction records capturing customer purchases
 
 ## Number of Records
 Rows: 1200
+
 Columns: 14
 
 ## Key Fields - Column Name
