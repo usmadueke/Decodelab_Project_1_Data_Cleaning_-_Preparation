@@ -26,38 +26,24 @@ Dataset Description
 The dataset contains e-commerce transaction records capturing customer purchases, payment information, shipping details, referral sources, and order statuses.
 
 ## Number of Records
-Rows: 1200
-
-Columns: 14
+- Rows: 1200
+- Columns: 14
 
 ## Key Fields - Column Name
-OrderID
-
-Date
-
-CustomerID
-
-Product
-
-Quantity
-
-UnitPrice
-
-ShippingAddress
-
-PaymentMethod
-
-OrderStatus
-
-TrackingNumber
-
-ItemsInCart
-
-CouponCode
-
-ReferralSource
-
-TotalPrice
+- OrderID
+- Date
+- CustomerID
+- Product
+- Quantity
+- UnitPrice
+- ShippingAddress
+- PaymentMethod
+- OrderStatus
+- TrackingNumber
+- ItemsInCart
+- CouponCode
+- ReferralSource
+- TotalPrice
 
 
 ## 🔄 Data Cleaning Process
@@ -70,9 +56,9 @@ The dataset was examined for blank, null, and missing values.
 
 Actions taken:
 
--Located missing entries across multiple columns.
--Replaced missing coupon information with "No Coupon" where applicable.
--Reviewed other missing fields and handled them appropriately to maintain data consistency.
+- Located missing entries across multiple columns.
+- Replaced missing coupon information with "No Coupon" where applicable.
+- Reviewed other missing fields and handled them appropriately to maintain data consistency.
 
 ### 2. Duplicate Removal
 
