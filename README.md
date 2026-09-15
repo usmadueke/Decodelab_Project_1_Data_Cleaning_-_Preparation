@@ -66,43 +66,43 @@ The dataset was checked for duplicate records using Excel and Power Query.
 
 Actions taken:
 
--Identified duplicate rows.
--Removed duplicate records while retaining unique transactions.
--Verified data integrity after removal.
+- Identified duplicate rows.
+- Removed duplicate records while retaining unique transactions.
+- Verified data integrity after removal.
 
 ### 3. Data Format Correction
 
 Several fields required standardization to ensure consistency.
 ### Date Formatting
--Converted date fields into a consistent date format.
--Ensured chronological accuracy for time-based analysis.
+- Converted date fields into a consistent date format.
+- Ensured chronological accuracy for time-based analysis.
 ### Numeric Formatting
--Verified Quantity, Unit Price, and Total Price columns were stored as numbers.
--Corrected any formatting inconsistencies.
+- Verified Quantity, Unit Price, and Total Price columns were stored as numbers.
+- Corrected any formatting inconsistencies.
 ### Text Standardization
--Standardized text entries.
--Removed extra spaces and unwanted characters.
--Ensured consistent naming conventions across categorical fields.
+- Standardized text entries.
+- Removed extra spaces and unwanted characters.
+- Ensured consistent naming conventions across categorical fields.
 
 ### 4. Data Validation
 
 Conducted final quality checks to ensure:
 
--No duplicate records remained.
--Missing values were addressed.
--Data types were correctly assigned.
--Records were consistent and analysis-ready.
+- No duplicate records remained.
+- Missing values were addressed.
+- Data types were correctly assigned.
+- Records were consistent and analysis-ready.
 
 
 ## 📈 Key Observations
 
 During the cleaning process, the following issues were identified:
 
--Missing values in certain fields.
--Duplicate transaction records.
--Inconsistent date formats.
--Irregular text formatting in categorical columns.
--Data type inconsistencies between numerical and text fields.
+- Missing values in certain fields.
+- Duplicate transaction records.
+- Inconsistent date formats.
+- Irregular text formatting in categorical columns.
+- Data type inconsistencies between numerical and text fields.
 
 Addressing these issues significantly improved the reliability of the dataset.
 
@@ -110,28 +110,28 @@ Addressing these issues significantly improved the reliability of the dataset.
 
 After cleaning and preparation:
 
--Dataset accuracy was improved.
--Duplicate entries were removed.
--Missing values were handled.
--Data formats were standardized.
--The dataset became suitable for analysis, reporting, and dashboard development.
+- Dataset accuracy was improved.
+- Duplicate entries were removed.
+- Missing values were handled.
+- Data formats were standardized.
+- The dataset became suitable for analysis, reporting, and dashboard development.
 
 ## 📚 Skills Demonstrated
--Data Cleaning
--Data Preparation
--Data Validation
--Excel Functions
--Power Query Transformations
--Handling Missing Values
--Duplicate Detection and Removal
--Data Formatting and Standardization
--Data Quality Assessment
+- Data Cleaning
+- Data Preparation
+- Data Validation
+- Excel Functions
+- Power Query Transformations
+- Handling Missing Values
+- Duplicate Detection and Removal
+- Data Formatting and Standardization
+- Data Quality Assessment
 
 ## 🚀 Project Deliverables
--Cleaned E-commerce Dataset
--Data Cleaning Documentation
--GitHub Project Repository
--Analysis-Ready Dataset for SQL and Power BI Projects
+- Cleaned E-commerce Dataset
+- Data Cleaning Documentation
+- GitHub Project Repository
+- Analysis-Ready Dataset for SQL and Power BI Projects
 
 # Author
 
