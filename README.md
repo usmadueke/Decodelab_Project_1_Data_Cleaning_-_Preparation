@@ -73,13 +73,13 @@ The dataset was checked for duplicate records using Excel and Power Query.
 ### 3. Data Format Correction
 
 Several fields required standardization to ensure consistency.
-### Date Formatting
+**Date Formatting**
 - Converted date fields into a consistent date format.
 - Ensured chronological accuracy for time-based analysis.
-### Numeric Formatting
+**Numeric Formatting**
 - Verified Quantity, Unit Price, and Total Price columns were stored as numbers.
 - Corrected any formatting inconsistencies.
-### Text Standardization
+**Text Standardization**
 - Standardized text entries.
 - Removed extra spaces and unwanted characters.
 - Ensured consistent naming conventions across categorical fields.
@@ -117,6 +117,7 @@ After cleaning and preparation:
 - The dataset became suitable for analysis, reporting, and dashboard development.
 
 ## 📚 Skills Demonstrated
+
 - Data Cleaning
 - Data Preparation
 - Data Validation
@@ -128,6 +129,7 @@ After cleaning and preparation:
 - Data Quality Assessment
 
 ## 🚀 Project Deliverables
+
 - Cleaned E-commerce Dataset
 - Data Cleaning Documentation
 - GitHub Project Repository
