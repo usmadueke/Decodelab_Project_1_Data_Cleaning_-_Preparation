@@ -54,7 +54,7 @@ The following data-cleaning steps were performed:
 
 The dataset was examined for blank, null, and missing values.
 
-Actions taken:
+**Actions taken:**
 
 - Located missing entries across multiple columns.
 - Replaced missing coupon information with "No Coupon" where applicable.
@@ -64,7 +64,7 @@ Actions taken:
 
 The dataset was checked for duplicate records using Excel and Power Query.
 
-Actions taken:
+**Actions taken:**
 
 - Identified duplicate rows.
 - Removed duplicate records while retaining unique transactions.
